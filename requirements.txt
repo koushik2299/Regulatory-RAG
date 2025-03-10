@@ -1,0 +1,6 @@
+google-cloud-storage
+pymupdf
+numpy
+openai
+tiktoken
+weaviate-client
