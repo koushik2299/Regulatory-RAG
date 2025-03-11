@@ -1,5 +1,5 @@
 import os
-from embedding_utils import process_pdfs_and_generate_embeddings
+from utils.embedding_utils import process_pdfs_and_generate_embeddings
 
 # Folder where PDFs were downloaded
 pdf_folder = "downloaded_pdfs"

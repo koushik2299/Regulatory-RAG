@@ -1,6 +1,6 @@
 import os
-from gcs_utils import download_pdf, list_pdfs
-from pdf_utils import extract_text_from_pdf
+from utils.gcs_utils import download_pdf, list_pdfs
+from utils.pdf_utils import extract_text_from_pdf
 
 # Folder where PDFs will be downloaded
 download_folder = "downloaded_pdfs"

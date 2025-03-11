@@ -1,6 +1,6 @@
 import os
-from embedding_utils import process_pdfs_and_generate_embeddings
-from vector_store import store_embeddings, search_similar_text
+from utils.embedding_utils import process_pdfs_and_generate_embeddings
+from src.vector_store import store_embeddings, search_similar_text
 
 # Folder where PDFs were downloaded
 pdf_folder = "downloaded_pdfs"

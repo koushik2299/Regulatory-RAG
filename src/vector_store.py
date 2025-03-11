@@ -1,7 +1,7 @@
 import faiss
 import numpy as np
 import pickle
-from embedding_utils import get_embedding
+from utils.embedding_utils import get_embedding
 
 # File to store FAISS index
 FAISS_INDEX_FILE = "faiss_index.pkl"
