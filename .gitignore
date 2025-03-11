@@ -1,0 +1,17 @@
+# Folder to ignore
+downloaded_pdfs/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+venv/
+.env/
+
+# Ignore Mac system files
+.DS_Store
+
+# Credentials and sensitive files
+credentials.json

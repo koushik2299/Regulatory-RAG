@@ -4,3 +4,5 @@ numpy
 openai
 tiktoken
 weaviate-client
+dotenv
+faiss-cpu
